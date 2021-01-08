@@ -1,0 +1,26 @@
+.transaction {
+  width: 800px;
+  height: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #ffffff;
+  border: 1px solid #c8c3c3;
+  border-collapse: collapse;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.55);
+}
+.thead {
+  background-color: mediumturquoise;
+  color: grey;
+  height: 50 px;
+  text-transform: uppercase;
+}
+.tbody {
+  color: grey;
+}
+.tbody .grey {
+  background-color: lightgrey;
+}
+
+.tbody .white {
+  background-color: white;
+}
